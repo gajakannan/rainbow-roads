@@ -1,3 +1,5 @@
+## Rainbow Roads
+
 A command line tool that animates your exercise maps, inspired by an [article by Andriy Yaremenko](https://medium.com/geospatial-analytics/how-to-animate-strava-gpx-tracks-in-qgis-8a8ca6b58ebc).
 
 ![example worms output](lockdown_worms.gif)
